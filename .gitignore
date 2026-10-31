@@ -1,0 +1,15 @@
+# STM32CubeIDE build outputs
+/Debug/
+/Release/
+
+# Eclipse workspace and local settings
+.settings/
+.metadata/
+
+# Generated and temporary files
+*.log
+*.tmp
+
+# Lab reports and recordings (keep locally)
+*.mp4
+*.docx
